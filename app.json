@@ -1,0 +1,14 @@
+{
+  "name": "pai_eas_tutorial_03",
+  "processor_entry": "./app.py",
+  "processor_type": "python",
+  "processor_path": "oss-model-path",
+  "metadata": {
+    "region": "specific-region",
+    "instance": 1,
+    "memory": 2000,
+    "rpc.keepalive": 10000,
+    "resource": "resource-id",
+    "cpu": 1
+  }
+}

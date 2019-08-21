@@ -52,6 +52,6 @@ class MyProcessor(allspark.BaseProcessor):
 
 
 if __name__ == '__main__':
-    # paramter worker_threads indicates concurrency of processing
+    # parameter worker_threads indicates concurrency of processing
     runner = MyProcessor(worker_threads=10)
     runner.run()

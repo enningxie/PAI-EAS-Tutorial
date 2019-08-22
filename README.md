@@ -278,4 +278,4 @@ curl http://pai-eas-vpc.cn-hangzhou.aliyuncs.com/api/predict/pai_eas_tutorial_04
 
 ![image-20190821151533490](assets/image-20190821151533490.png)
 
-目前仅支持阿里云机器内部调用。
+目前仅支持阿里云机器内部调用。🥴
